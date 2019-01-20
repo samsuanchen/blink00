@@ -1,5 +1,5 @@
 /*
-  Blink00
+  Blink00 https://github.com/samsuanchen/blink00
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
