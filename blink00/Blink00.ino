@@ -17,9 +17,10 @@
   modified 8 Sep 2016
   by Colby Newman
 
-  One line is added into the basic example code of
-  http://www.arduino.cc/en/Tutorial/Blink
+  One line is added into the code
+  (http://www.arduino.cc/en/Tutorial/Blink)
   to define LED_BUILTI for wifiboy 32.
+  samsuanchen@gmail.com
 */
 
 #define LED_BUILTIN 16 // for WIFIBOY 32
